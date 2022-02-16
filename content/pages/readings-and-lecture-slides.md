@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Lecture Slides
 uid: ea318bd7-40cf-dd0a-35a9-b8841f41c03e
 ---
@@ -481,7 +483,7 @@ LECTURE SLIDES
 {{< tdopen >}}
 
 
-**Nonlinear Optics of X(2) Interactions**
+**Nonlinear Optics of X{{< sup "(2)" >}} Interactions**
 
 *   Maxwell's equations with a nonlinear polarization
 *   Coupled-mode equations for parametric downconversion
@@ -505,7 +507,7 @@ LECTURE SLIDES
 {{< tdopen >}}
 
 
-**Nonlinear Optics of X(2) Interactions**
+**Nonlinear Optics of X{{< sup "(2)" >}} Interactions**
 
 *   Coupled-mode equations for parametric downconversion
 *   Phase-matching for efficient interactions

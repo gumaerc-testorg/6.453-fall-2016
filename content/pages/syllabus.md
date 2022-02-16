@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0d53ba52-c89b-a401-6510-3e827a1c5f38
 ---
@@ -390,7 +392,7 @@ Continuous-Time Photodetection II
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Nonlinear Optics of X(2) Interactions I
+Nonlinear Optics of X{{< sup "(2)" >}} Interactions I
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -402,7 +404,7 @@ Nonlinear Optics of X(2) Interactions I
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Nonlinear Optics of X(2) Interactions II
+Nonlinear Optics of X{{< sup "(2)" >}} Interactions II
 {{< tdclose >}}
 {{< tdopen >}}
  
