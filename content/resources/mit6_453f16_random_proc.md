@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Lecture Slides
 parent_type: CourseSection
+parent_uid: ea318bd7-40cf-dd0a-35a9-b8841f41c03e
 resourcetype: Document
 title: Random Processes Review
 uid: cc42ddeb-6ecb-ebf4-4489-373bacf631ea

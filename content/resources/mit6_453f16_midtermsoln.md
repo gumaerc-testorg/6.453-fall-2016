@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 90edafa9-05d6-7ce5-b9d0-20cc7d6c708b
 resourcetype: Document
 title: '6.453 Quantum Optical Communication: Solutions to Midterm Exam'
 uid: d5d6d36b-3bb9-aad9-13d0-509f29363560
