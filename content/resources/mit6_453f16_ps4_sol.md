@@ -5,6 +5,7 @@ file: /courses/6-453-quantum-optical-communication-fall-2016/4f58110d2e9ba20ec2d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6.453 Quantum Optical Communication Problem Set 4 Solution
 uid: 4f58110d-2e9b-a20e-c2dc-b78f6bba1a09
 ---
 This file contains the information about the problem set 4 solution.
-
