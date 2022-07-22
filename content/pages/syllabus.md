@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes information about the course topics, readings,
+  assignments, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0d53ba52-c89b-a401-6510-3e827a1c5f38
 ---
@@ -17,12 +21,12 @@ Welcome to _6.453 Quantum Optical Communication_. It is one of a collection of M
 Prerequisites
 -------------
 
-The preceding paragraph characterizes the course as an outgrowth of quantum optics, i.e., the marriage of quantum mechanics and optics. An alternative, and more informative, way to look at the course is as an outgrowth of communications and especially communication theory. This should be clear from its prerequisites being [_6.011 Introduction to Communication, Control, and Signal Processing_](/courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/) and [_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011/), which indicate that this course will build on knowledge of signals and systems, probability, and linear algebra. In particular, we will rely on Fourier transforms, convolutions, probability mass functions, probability density functions, mean values, variances, vectors, matrices, eigenvalues, and eigenvectors. These topics will not be reviewed in the lectures. Instead, they will be probed on Problem Set 1. The supplementary reading for this problem set may help you review, but it is probably better (and easier) if you refer to the course materials you have from wherever and whenever you learned basic signals and systems, probability, and linear algebra.
+The preceding paragraph characterizes the course as an outgrowth of quantum optics, i.e., the marriage of quantum mechanics and optics. An alternative, and more informative, way to look at the course is as an outgrowth of communications and especially communication theory. This should be clear from its prerequisites being [_6.011 Introduction to Communication, Control, and Signal Processing_](/courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010) and [_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011), which indicate that this course will build on knowledge of signals and systems, probability, and linear algebra. In particular, we will rely on Fourier transforms, convolutions, probability mass functions, probability density functions, mean values, variances, vectors, matrices, eigenvalues, and eigenvectors. These topics will not be reviewed in the lectures. Instead, they will be probed on Problem Set 1. The supplementary reading for this problem set may help you review, but it is probably better (and easier) if you refer to the course materials you have from wherever and whenever you learned basic signals and systems, probability, and linear algebra.
 
 Textbook
 --------
 
-There is no required text. [Readings]({{< baseurl >}}/pages/readings-and-lecture-slides) will be provided, along with suggestions for supplementary reading.
+There is no required text. {{% resource_link ea318bd7-40cf-dd0a-35a9-b8841f41c03e "Readings" %}} will be provided, along with suggestions for supplementary reading.
 
 Assignments and Grading
 -----------------------
@@ -390,7 +394,7 @@ Continuous-Time Photodetection II
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Nonlinear Optics of X(2) Interactions I
+Nonlinear Optics of X{{< sup "(2)" >}} Interactions I
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -402,7 +406,7 @@ Nonlinear Optics of X(2) Interactions I
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Nonlinear Optics of X(2) Interactions II
+Nonlinear Optics of X{{< sup "(2)" >}} Interactions II
 {{< tdclose >}}
 {{< tdopen >}}
  
