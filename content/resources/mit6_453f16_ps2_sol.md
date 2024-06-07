@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information about the problem set 2 solution.
 file: /courses/6-453-quantum-optical-communication-fall-2016/ff2317351c26d1be76d9543619419e23_MIT6_453F16_ps2_sol.pdf
+file_size: 289542
 file_type: application/pdf
 learning_resource_types:
 - Assignments
