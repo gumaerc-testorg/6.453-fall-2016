@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding  quantum optical communication:
   Random processes review.'
 file: /courses/6-453-quantum-optical-communication-fall-2016/cc42ddeb6ecbebf44489373bacf631ea_MIT6_453F16_Random_Proc.pdf
+file_size: 374145
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
