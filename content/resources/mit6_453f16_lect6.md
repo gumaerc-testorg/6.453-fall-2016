@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding  quantum optical communication:
   Lecture notes.'
-file: /courses/6-453-quantum-optical-communication-fall-2016/324f8fe90d169f1cdbb0c1de3db09257_MIT6_453F16_Lect6.pdf
+file: /ol-ocw-studio-app/courses/6-453-quantum-optical-communication-fall-2016/324f8fe90d169f1cdbb0c1de3db09257_MIT6_453F16_Lect6.pdf
 file_size: 589274
 file_type: application/pdf
 learning_resource_types: []
