@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding solutions to midterm exam.
-file: /ol-ocw-studio-app/courses/6-453-quantum-optical-communication-fall-2016/d5d6d36b3bb9aad913d0509f29363560_MIT6_453F16_MidtermSoln.pdf
+file: /courses/6-453-quantum-optical-communication-fall-2016/d5d6d36b3bb9aad913d0509f29363560_MIT6_453F16_MidtermSoln.pdf
 file_size: 403677
 file_type: application/pdf
 learning_resource_types:

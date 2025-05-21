@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about the problem set 1 solution.
-file: /ol-ocw-studio-app/courses/6-453-quantum-optical-communication-fall-2016/d471a7e2cdfc8b46b12c5da90a7bcdc0_MIT6_453F16_ps1_sol.pdf
+file: /courses/6-453-quantum-optical-communication-fall-2016/d471a7e2cdfc8b46b12c5da90a7bcdc0_MIT6_453F16_ps1_sol.pdf
 file_size: 324785
 file_type: application/pdf
 learning_resource_types:
